@@ -85,3 +85,4 @@ class CustomDataset(Dataset):
 
     def get_label(self):
         return self.labels
+
